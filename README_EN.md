@@ -4,6 +4,8 @@
 
 This project was created by [万劫不复ks (Wan Jie Bu Fu KS)](https://www.xiaohongshu.com/user/profile/5e331246000000000100bb17) and is licensed under the [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/legalcode.txt). It allows free use, modification, and commercial use, provided the original author (@万劫不复ks or @WJBFks) is credited.
 
+**If you enjoy the works of this project, kindly click the star (⭐️) in the top-right corner. Your support is greatly appreciated!**
+
 # CC BY 4.0
 
 A license that permits free use, modification, and distribution of works, with the core requirement of crediting the original author and providing a link to the license.
