@@ -1,4 +1,7 @@
 # OpenSunshineAIGC
+
+[中文版本](./README.md)
+
 This project was created by [万劫不复ks (Wan Jie Bu Fu KS)](https://www.xiaohongshu.com/user/profile/5e331246000000000100bb17) and is licensed under the [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/legalcode.txt). It allows free use, modification, and commercial use, provided the original author (@万劫不复ks or @WJBFks) is credited.
 
 # CC BY 4.0
