@@ -1,5 +1,8 @@
 # OpenSunshineAIGC
 
+[![rednote](https://img.shields.io/badge/rednote-万劫不复ks-FF2443?logo=xiaohongshu)](https://www.xiaohongshu.com/user/profile/5e331246000000000100bb17)
+[![downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Ffc-mp-9871a84d-7aee-4cf9-b227-e45fa3dc8759.next.bspapp.com%2Fgithub%3Ftarget%3DOpenSunshineAIGC%26type%3Dclones_count&query=count&label=downloads&cacheSeconds=600)](https://github.com/WJBFks/OpenSunshineAIGC/tree/main/OpenSunshineAIGC)
+
 [中文版本](./README.md)
 
 This project was created by [万劫不复ks (Wan Jie Bu Fu KS)](https://www.xiaohongshu.com/user/profile/5e331246000000000100bb17) and is licensed under the [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/legalcode.txt). It allows free use, modification, and commercial use, provided the original author (@万劫不复ks or @WJBFks) is credited.
