@@ -1,6 +1,6 @@
 # OpenSunshineAIGC
 
-![小红书](https://img.shields.io/badge/小红书-万劫不复ks-FF2443?logo=xiaohongshu)
+[![小红书](https://img.shields.io/badge/小红书-万劫不复ks-FF2443?logo=xiaohongshu)](https://www.xiaohongshu.com/user/profile/5e331246000000000100bb17)
 
 [English Version](./README_EN.md)
 
