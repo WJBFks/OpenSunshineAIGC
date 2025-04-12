@@ -1,7 +1,7 @@
 # OpenSunshineAIGC
 
 [![小红书](https://img.shields.io/badge/小红书-万劫不复ks-FF2443?logo=xiaohongshu)](https://www.xiaohongshu.com/user/profile/5e331246000000000100bb17)
-[![下载数](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Ffc-mp-9871a84d-7aee-4cf9-b227-e45fa3dc8759.next.bspapp.com%2Fgithub%3Ftarget%3DOpenSunshineAIGC%26type%3Dclones_count&query=count&label=最近下载&cacheSeconds=600)](https://github.com/WJBFks/OpenSunshineAIGC/tree/main/OpenSunshineAIGC)
+[![下载数](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Ffc-mp-9871a84d-7aee-4cf9-b227-e45fa3dc8759.next.bspapp.com%2Fgithub%3Ftarget%3DOpenSunshineAIGC%26type%3Dclones_count&query=count&label=最近下载&cacheSeconds=3600)](https://github.com/WJBFks/OpenSunshineAIGC/tree/main/OpenSunshineAIGC)
 
 [English Version](./README_EN.md)
 
